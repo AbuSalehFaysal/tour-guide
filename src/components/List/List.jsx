@@ -16,6 +16,10 @@ const List = () => {
   const [type, setType] = useState("restaurants");
   const [rating, setRating] = useState("");
 
+  const places = [
+    {name: }
+  ]
+
   return (
     <div className={classes.container}>
       <Typography variant="h4">
